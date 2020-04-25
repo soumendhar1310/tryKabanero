@@ -8,6 +8,6 @@ public class ExampleEndpoint {
 
     @RequestMapping("/example")
     public String example() {
-        return "This is an example1";
+        return "This is an example2";
     }
 }
